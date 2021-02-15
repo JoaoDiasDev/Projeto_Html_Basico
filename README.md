@@ -1,2 +1,2 @@
-# Projeto_Html_Basico
+# Projeto Html Basico
  Primeiro projeto feito com html,css e javascript
